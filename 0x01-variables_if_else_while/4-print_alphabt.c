@@ -3,8 +3,8 @@
 
 /**
  * main - entry point
- * Description - prints lowercase alphabets
- * Return - Always 0 (success)
+ * Description: prints lowercase alphabets
+ * Return: Always 0 (success)
  */
 int main(void)
 {
